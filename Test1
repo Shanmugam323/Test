@@ -1,1 +1,8 @@
-This is my 1st file in github
+user:
+  name: "Alice"
+  age: 28
+  email: "alice@example.com"
+  skills:
+    - Python
+    - JavaScript
+    - YAML

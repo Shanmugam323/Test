@@ -1,1 +1,8 @@
-This is my 2nd file in github
+user:
+  name: "shan"
+  age: 28
+  email: "shan@example.com"
+  skills:
+    - Python
+    - JavaScript
+    
