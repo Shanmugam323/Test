@@ -1,2 +1,8 @@
-This is my 1st file in git
-This is my 2nd line in git
+user:
+  name: "Alice"
+  age: 28
+  email: "alice@example.com"
+  skills:
+    - Python
+    - JavaScript
+    - YAML
