@@ -1,7 +1,7 @@
 user:
   name: "Alice"
-  age: 28
-  email: "alice@example.com"
+  age: 38
+  email: "alice@gmail.com"
   skills:
     - Python
     - JavaScript
